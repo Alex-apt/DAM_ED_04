@@ -2,7 +2,10 @@ package dam_ed04_actividad;
 
 import cuentas.CCuenta;
 
-
+/**
+ * Método principal del proyecto deposito
+ * @author alex
+ */
 public class Main {
 
     /**
